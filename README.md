@@ -12,6 +12,6 @@
   (C1 == “IN”) && (C2 == “home.php”)
   (C1 == “IN”) && (C2 == “search.php”) && (C3 == “nytimes.com”)
 
-    * Design a method for getting the subscriber ids which are registered for a given event.
+   * Design a method for getting the subscriber ids which are registered for a given event.
 
     ex : public List<String> findMatchingIds(String[] event /* assume each event has N Strings */);
