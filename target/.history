@@ -1,0 +1,7 @@
+sbt gen-idea
+help
+project
+help
+quit
+;
+exit;
